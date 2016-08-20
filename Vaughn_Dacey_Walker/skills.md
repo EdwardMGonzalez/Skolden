@@ -1,21 +1,18 @@
 Skills
 ======
+_Jack of all Trades: +1 all non-proficient checks)
 
-Acrobatics (Dex)
-----------
-+2
+| Acrobatics (Dex) | +3 |
 
-Animal Handling (Wis)
----------------
-+1
+| Animal Handling (Wis) | +2 |
 
 Arcana (Int)
 ------
-0
+1
 
 Athletics (Str)
 ---------
-+2
++3
 
 Deception (Cha)
 ---------------
@@ -23,32 +20,32 @@ Deception (Cha)
 
 History (Int)
 -------------
-0
+1
 
 Insight (Wis)
 -------------
-+1
++2
 
 Intimidation (Cha)
 ------------------
-+3
++4
 
 Investigation (Int)
 -------------------
-0
+1
 
 Medicine (Wis)
 --------------
-+1
++2
 
 Nature (Int)
 ------------
-0
+1
 
 Perception (Wis)
 ----------
-+1 
-Passive Wisdom: 11
++2 
+Passive Wisdom: 12
 
 Performance (Cha)
 ----------------
@@ -60,17 +57,17 @@ Persuasion (Cha)
 
 Religion (Int)
 --------------
-0
+1
 
 Sleight of Hand (Dex)
 ---------------------
-+2
++3
 
 Stealth (Dex)
 -------------
-+2
++3
 
 Survival (Wis)
 --------------
-+3
++4
 
