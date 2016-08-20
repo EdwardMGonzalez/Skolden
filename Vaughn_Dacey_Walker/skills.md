@@ -1,9 +1,9 @@
 Skills
 ======
-_Jack of all Trades: +1 all non-proficient checks)
+_Jack of all Trades: +1 all non-proficient checks)_
+
 
 | Acrobatics (Dex) | +3 |
-
 | Animal Handling (Wis) | +2 |
 
 Arcana (Int)
