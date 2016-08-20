@@ -1,8 +1,10 @@
 Skills
 ======
-_Jack of all Trades: +1 all non-proficient checks)_
+_Jack of all Trades: +1 all non-proficient checks_
 
 
+| Skill | bonus |
+| --- | --- |
 | Acrobatics (Dex) | +3 |
 | Animal Handling (Wis) | +2 |
 
