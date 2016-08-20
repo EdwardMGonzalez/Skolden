@@ -1,6 +1,6 @@
 Vaugh Dacey Walker
 ==================
-
+[Abilities](./abilities.md)  
 [Spells](./spells.md)  
 [Combat](./combat.md)  
 [Feats](./feats.md)  
