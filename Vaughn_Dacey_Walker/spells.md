@@ -5,7 +5,7 @@
 [Prestidigitation](./Spells/prestidigitation.md)  
 
 ## 1st Level
-Heroism] (./Spells/heroism.md)  
+[Heroism] (./Spells/heroism.md)  
 [Cure Wounds](./Spells/cure_wounds.md)  
 [Healing Word](./Spells/healing_word.md)  
 
