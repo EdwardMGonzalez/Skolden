@@ -29,10 +29,8 @@ Spells, DC 13
 |:--- | :----------: | :---: | :--------: | :------: | :----: | ---- |
 | __Cantrips__ |
 |[Vicious Mockery](./Spells/vicious_mockery.md)| 1 action | 60ft | V | Instant | 1d4 psychic dmg | Wisdom Save |
-
 | __1st Level__ |
 |[Heroism] (./Spells/heroism.md) | 1 action | touch | VS | concentration, 1min | - | 1 creature immmunte to frighten, +3 hp per round |
-
 | __2nd Level__ |
 |[Phantasmal Force](./Spells/phantasmal_force.md)| 1 action | 60ft| VSM | concentration, 1min| 1d6 | Must use action to investigate (Int save) |
 
