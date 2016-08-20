@@ -5,6 +5,12 @@ Vaugh Dacey Walker
 [Combat](./combat.md)  
 [Feats](./feats.md)  
 
+__Languages__ Common Elvish
+__Weapons__  Simple, Martial, Crossbow (hand, light), Longsword, Rapier, Shortsword, Dagger
+__Armor__ Light, Medium
+__Tools__ Dice set, Leatherworker's tools, Drum
+
+
 Personality
 -----------
 I know a story relevant to almost every
