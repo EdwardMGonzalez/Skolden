@@ -26,7 +26,7 @@ Weapons
 Spells, DC 13
 --------
 |Name | Casting Time | Range | Components | Duration | Damage |  Notes |
-|:--- | :----------: | :---: | :--------: | :------: | :----: | ----:|
+|:--- | :----------: | :---: | :--------: | :------: | :----: | ---- |
 | __Cantrips__ |
 |[Vicious Mockery](./Spells/vicious_mockery.md)| 1 action | 60ft | V | Instant | 1d4 psychic dmg | Wisdom Save |
 | [Prestidigitation](./Spells/prestidigitation.md) | 1 action | 10ft | VS | 1hr | - | up to 3 active effects |
