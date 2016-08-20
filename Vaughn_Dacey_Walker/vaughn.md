@@ -1,9 +1,9 @@
 Vaugh Dacey Walker
 ==================
 
-[Spells](./spells.md)
-[Combat](./combat.md)
-[Feats](./feats.md)
+[Spells](./spells.md)  
+[Combat](./combat.md)  
+[Feats](./feats.md)  
 
 Personality
 -----------
