@@ -3,11 +3,17 @@ Combat
 
 __Max Hit Points__ 12
 
-__Armor Class__ 13 (Leather armor 11, +2 Dex)
+__Armor Class__ 13 
 
 __Hit Dice__ 3d8
 
-Weapons
+Armor (Light, Medium, Shields)
+-----
+| Armor | AC |
+| ----- | -- |
+| Leather | 11 + Dex bonus |
+
+Weapons (Simple, Martial)
 --------------
 | Weapon | Damage | Type | Properties |
 | :------| :----: | :---: | :---: |
@@ -43,6 +49,9 @@ Once within the next 10 minutes, the creature can roll the die and add the numbe
 You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a long rest.
 
 Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.
+
+### Combat Inspiration
+Bardic Inspiration dice can be used to add to weapon damage or armor class as well as the stuff above. 
 
 
 Song of Rest (1d6 hp)
