@@ -13,9 +13,27 @@ Hit Dice
 --------
 3d8
 
-Meelee Weapons
+Weapons
 --------------
-| Weapon | Damage | Type | Range |
+| Weapon | Damage | Type | Properties |
 | :------| :----: | :---: | :---: |
-|Stone axe |  1d6 | slashing | Thrown (20/60) |
+|Stone axe |  1d6 | slashing | light, thrown (20/60) |
+|Light hammer | 1d4 | bludgeoning | light, thrown (20/60) |
+|Dagger | 1d4 | piercing | finesse, light, thrown (20/60) |
+|Crossbow | 1d6 | piercing | ammunition (25/100), loading |
+
+
+Spells, DC 13
+--------
+|Name | Casting Time | Range | Components | Duration | Damage |  Notes |
+|:--- | :----------: | :---: | :--------: | :------: | :----: | ----:|
+|Vicious Mockery| 1 action | 60ft | V | Instant | 1d4 psychic dmg | Wisdom Save |
+|Phantasmal Force| 1 action | 60ft| VSM (fleece) | concentration, 1min| 1d6 | Must use action to investigate (Int save) |
+|Heroism | 1 action | touch | VS | concentration, 1min | - | 1 creature immmunte to frighten, +3 hp per round |
+|Cure Wounds | 1 action | touch | VS | Instant | - | 1d8 +3 hp to living creature |
+|Healing Word | 1 bonus action | 60ft | V | Instant | 1d4 +3 hp to living creature |
+|Detect Thoughts | 1 action | Self | VSM (copper piece) | concentration, 1min | Wisdom save on deeper probing, detect creatures in 30ft range |
+
+
+
 
