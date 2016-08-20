@@ -19,4 +19,4 @@ bodhran Drum
 heavy furs  
 
 ## Adventures
-Leatherbound vulpine book
+Leatherbound vulpine book (aka The Book of the Wolf)  
