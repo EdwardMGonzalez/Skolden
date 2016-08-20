@@ -1,11 +1,13 @@
 Combat
 ======
 
-__Max Hit Points__ 12
-
-__Armor Class__ 13 
-
+__Max Hit Points__ 12  
+__Armor Class__ 13   
 __Hit Dice__ 3d8
+__Initiative__ +2
+__Speed__ 30
+
+
 
 Armor (Light, Medium, Shields)
 -----
