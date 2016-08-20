@@ -10,7 +10,7 @@ __Hit Dice__ 3d8
 Armor (Light, Medium, Shields)
 -----
 | Armor | AC |
-| ----- | -- |
+| :----- | :---: |
 | Leather | 11 + Dex bonus |
 
 Weapons (Simple, Martial)
