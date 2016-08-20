@@ -2,6 +2,7 @@
 _1st-level evocation_
 
 __Casting Time:__ 1 action
+
 __Range:__ Touch
 __Components:__ V, S
 __Duration:__ Instantaneous
