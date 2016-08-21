@@ -129,7 +129,9 @@ couches & ruined books. 3 pieces of parchment, spells, scrolls.
 Secret door in a desk.
 Silver letter opener, pouch 15gp, rolled up parchment
 Parchment is the deed to the estate. Yarl of Horstad.
-Think it would hold up if challenged. 
+Think it would hold up if challenged.
+
+Stopped here to rest. We'll hunt the warewolf in the morning.
 
 
 
