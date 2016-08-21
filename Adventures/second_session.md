@@ -45,4 +45,26 @@ Laufi is concerned about how long it will take him to replace them.
 
 Rat: Where'd they go when you drove them off?
 
+Laufi: They ran off to the South West (?). Rat heads out in that direction.
+
+We head out and find evidence of the wolves passing. Some hair and paw prints
+left. Not much, but enough to keep us tracking.
+
+We continue on, Rat following the tracks on foot and Ilva guiding his horse.
+
+More tracks, savaged deer.
+
+Come to some old, ill worn buildings. Like an old estate in the woods.
+There's a dilapidated barn.
+
+Ilva recalls a story about an old house in the woods that belonged to an old
+familiy. It was unual that anyone would live this far out.
+
+The house was quite elaborate at one point, but it's in disrepair.
+
+Rat looks into the house and begins shouting for inhabitants.
+
+The barn has smells of offal and poop. Vrondir creeps up through the wood,
+allowing Kal to sneak up. Twigs snap behind Vrondir and she sees several
+sets of eyes behind her.
 
