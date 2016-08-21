@@ -32,11 +32,3 @@
 | Glum | Dude on the wagon at the start of the adventure |
 | Egdel | teamster with Glum |
 
-
-## Adventurers
-| Character | Person |
-| -------   | -----  |
-| Vrondir | Shelly |
-| Kalvidimar | Don |
-| Thor | Trist |
-| Rat | Saladin |
