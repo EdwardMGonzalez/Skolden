@@ -68,3 +68,74 @@ The barn has smells of offal and poop. Vrondir creeps up through the wood,
 allowing Kal to sneak up. Twigs snap behind Vrondir and she sees several
 sets of eyes behind her.
 
+Encountered a warewolf on the roof of the barn. He ran into the house.
+Inside is a green ratted banner with the paw of a bear on it.
+
+Landing of the stairs, smashed mirror on the south wall.
+Tapestry of a dude, wife, son, and large dog.
+
+Ed: Wolves that attacked Laufi were likely controlled by warewolf.
+Does this mean the warewolf has some history with Laufi?
+
+Searched servents quarters found 25gp, 15sp, and a locket w/a child
+inside that has icy blue eyes.
+
+Child's room is relatively empty and abandoned.
+
+North room on the left: Rotting remains of a male  human.
+Scratches on the wall. The dead human has a necklace.
+
+The dead guy if fur clad, but he's mauled beyond recognition.
+
+found a travel pack: map, compass, rotted rations, folded up note:
+
+Dearest brother, I hope this missive finds you... You'll have reach
+Skolden before winter.  Your work there will go a long way to
+freeing father from prison.
+
+Map of the region: Indicates direction to Skolden from the north.
+
+Under the bed: Liniage of the Girda family, a book. Girda were
+old lords from this region, maybe 50-60 years ago. He abandoned
+this estate years ago.
+
+South room: Old dressing room.
+Window in the south wall has been broken out.
+
+Lars, boy from the journal.
+
+A winter wolf, white and big as a house,
+shows up after the warewolf calls.
+
+Thor killed the Winter wolf.
+
+Dining room:
+Smashed tables & chairs, ruined books.
+
+Skullery:
+smashed plates, cups glasses, throughout.
+
+Silver knives for everyone.
+
+Kitchen:
+discarded pots & pans, smashed clay containers
+
+Sitting room:
+destroyed furniture and painted frames
+
+Library?:
+couches & ruined books. 3 pieces of parchment, spells, scrolls.
+
+Secret door in a desk.
+Silver letter opener, pouch 15gp, rolled up parchment
+Parchment is the deed to the estate. Yarl of Horstad.
+Think it would hold up if challenged. 
+
+
+
+
+
+
+
+
+
