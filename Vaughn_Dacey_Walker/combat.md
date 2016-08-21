@@ -1,28 +1,28 @@
 Combat
 ======
 
-__Max Hit Points__ 12  
+__Max Hit Points__ 15   
 __Armor Class__ 13   
 __Hit Dice__ 3d8
 __Initiative__ +2
-__Speed__ 30
+__Speed__ 30c
 
 
 
 Armor (Light, Medium, Shields)
 -----
-| Armor | AC |
-| :----- | :---: |
+| Armor   | AC |
+| :-----  | :---: |
 | Leather | 11 + Dex bonus |
 
 Weapons (Simple, Martial)
 --------------
-| Weapon | Damage | Type | Properties |
-| :------| :----: | :---: | :---: |
-|Stone axe |  1d6 | slashing | light, thrown (20/60) |
-|Light hammer | 1d4 | bludgeoning | light, thrown (20/60) |
-|Dagger | 1d4 | piercing | finesse, light, thrown (20/60) |
-|Crossbow | 1d6 | piercing | ammunition (25/100), loading |
+| Weapon      | Damage | Type        | Properties |
+| :------     | :----: | :---:       | :---: |
+|Stone axe    |  1d6   | slashing    | light, thrown (20/60) |
+|Light hammer | 1d4    | bludgeoning | light, thrown (20/60) |
+|Dagger       | 1d4    | piercing    | finesse, light, thrown (20/60) |
+|Crossbow     | 1d6    | piercing    |  ammunition (25/100), loading |
 
 
 Spells, DC 13
@@ -32,7 +32,7 @@ Spells, DC 13
 | __Cantrips__ |
 |[Vicious Mockery](./Spells/vicious_mockery.md)| 1 action | 60ft | V | Instant | 1d4 psychic dmg | Wisdom Save |
 | __1st Level__ |
-|[Heroism] (./Spells/heroism.md) | 1 action | touch | VS | concentration, 1min | - | 1 creature immmunte to frighten, +3 hp per round |
+|[Heroism] (./Spells/heroism.md)                 | 1 action | touch | VS | concentration, 1min | - | 1 creature immmunte to frighten, +3 hp per round |
 | __2nd Level__ |
 |[Phantasmal Force](./Spells/phantasmal_force.md)| 1 action | 60ft| VSM | concentration, 1min| 1d6 | Must use action to investigate (Int save) |
 
