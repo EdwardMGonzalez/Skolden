@@ -13,7 +13,7 @@
 | Ingmar | older brother | also quit, less hard working |
 | Aric | younger brother | a bit spoiled |
 
-## Acquaintances
+## Old Acquaintances
 | Name | Notes |
 | --- | --- |
 | Ukaleq | Lady who trained Vaughn as a bard |
@@ -21,6 +21,10 @@
 | Hakon | Leader of the troupe Vaughn struck out with |
 | Sigurd | Husband of Turid, acrobat in troupe. Upstaged Vaughn |
 | Turid | Wife of Sigurd, acrobat in troupe. |
+
+## Folks from Solden
+| Name | Notes |
+| ---- | ---- | 
 | Dalla | Smithy in town of Skolden. Vaughn wants to learn of her exploits as a fighter |
 | Misha | Along with Seriphina, proprietor of the Whitefish Inn of Skolden |
 | Seriphina | Along with Misha, proprietor of the Whitefish Inn of Skolden |
