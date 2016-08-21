@@ -3,9 +3,9 @@ Combat
 
 __Max Hit Points__ 15  
 __Armor Class__ 13   
-__Hit Dice__ 3d8
-__Initiative__ +2
-__Speed__ 30c
+__Hit Dice__ 3d8   
+__Initiative__ +2   
+__Speed__ 30   
 
 
 
