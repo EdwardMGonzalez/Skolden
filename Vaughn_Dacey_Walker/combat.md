@@ -27,6 +27,13 @@ Weapons (Simple, Martial)
 
 Spells, DC 13
 --------
+**Per Day** 
+| Level | Number |
+| :---: | :---: |
+| 1 | 4 |
+| 2 | 2|
+
+
 |Name | Casting Time | Range | Components | Duration | Damage |  Notes |
 |:--- | :----------: | :---: | :--------: | :------: | :----: | ---- |
 | __Cantrips__ |
