@@ -13,7 +13,7 @@ Armor (Light, Medium, Shields)
 -----
 | Armor   | AC |
 | :-----  | :---: |
-| Leather | 11 + Dex bonus |
+| Leather | 11 + 2 |
 
 Weapons (Simple, Martial)
 --------------
