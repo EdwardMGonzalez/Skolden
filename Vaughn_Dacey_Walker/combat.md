@@ -28,10 +28,9 @@ Weapons (Simple, Martial)
 
 Spells, DC 13
 --------
-**Per Day**  
-
-| Level | Number |
+| Spell Level | Uses per day |
 | :---: | :---: |
+| 0 | infinite | 
 | 1 | 4 |
 | 2 | 2|
 
