@@ -18,12 +18,12 @@ Armor (Light, Medium, Shields)
 
 Weapons (Simple, Martial)
 --------------
-| Weapon      | Damage | Type        | Properties |
-| :------     | :----: | :---:       | :---: |
-|Stone axe    |  1d6   | slashing    | light, thrown (20/60) |
-|Light hammer | 1d4    | bludgeoning | light, thrown (20/60) |
-|Dagger       | 1d4    | piercing    | finesse, light, thrown (20/60) |
-|Crossbow     | 1d6    | piercing    |  ammunition (25/100), loading |
+| Weapon      | Atack | Damage | Type        | Properties |
+| :------     | :----: | :----: | :---:       | :---: |
+|Stone axe    | +2 |  1d6 +2  | slashing    | light, thrown (20/60) |
+|Light hammer | +2 |1d4 +2   | bludgeoning | light, thrown (20/60) |
+|Dagger       | +2 |1d4 +2    | piercing    | finesse, light, thrown (20/60) |
+|Crossbow     |  +2 | 1d6    | piercing    |  ammunition (25/100), loading |
 
 
 Spells, DC 13
