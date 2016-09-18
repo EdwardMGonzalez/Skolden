@@ -9,7 +9,7 @@ someone in a wolf motif.  The book of the Wolf was found there, we fought a wolf
 flesh creature.
 
 ## Days have passsed
-Tori - bear having town guard
+Tori - bear having town guard  
 Harold - the clean shavin, town guard
 
 We've been summoned to the Elder's cabin. Name: Rorvald
