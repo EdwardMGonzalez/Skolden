@@ -79,6 +79,13 @@ Thor ties a rope to the hunk or roasting meat and throws it into the
 pit with dessicated hands. Out of the pit comes four humaniods that look
 like un-dead, dried bodies with large tongues. They reek of rot and disease.
 
+Battle ensues
+
+Ilva is paralyzed by a hit from one of these un-dead critters.
+
+Rat hops into the pit after the gouls were vanquished and pops
+out of the pitt with a bright red cloak on.
+
 
 
 
