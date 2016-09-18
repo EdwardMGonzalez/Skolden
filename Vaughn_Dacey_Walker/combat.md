@@ -11,6 +11,7 @@ __Speed__ 30
 
 Armor (Light, Medium, Shields)
 -----
+
 | Armor   | AC |
 | :-----  | :---: |
 | Leather | 11 + 2 |
@@ -27,7 +28,8 @@ Weapons (Simple, Martial)
 
 Spells, DC 13
 --------
-**Per Day** 
+**Per Day**  
+
 | Level | Number |
 | :---: | :---: |
 | 1 | 4 |
