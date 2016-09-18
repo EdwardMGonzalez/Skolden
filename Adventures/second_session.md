@@ -69,7 +69,7 @@ allowing Kal to sneak up. Twigs snap behind Vrondir and she sees several
 sets of eyes behind her.
 
 Encountered a werewolf on the roof of the barn. He ran into the house.
-Inside is a green ratted banner with the paw of a bear on it.
+Inside the house is a green, torn banner with the paw of a bear on it.
 
 Landing of the stairs, smashed mirror on the south wall.
 Tapestry of a dude, wife, son, and large dog.
