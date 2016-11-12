@@ -9,24 +9,27 @@ __Speed__ 30
 
 
 
-Armor (Light, Medium, Shields)
+Armor (Light, Medium, Shields) 
+__AC:__ 18  
 -----
 
-| Armor   | AC |
-| :-----  | :---: |
-| Leather | 11 + 2 |
+| Armor   | AC | Notes |
+| :-----  | :---: | :---: |
+| Scale Mail | 14 + 2 | Disadvantage sneaking |
+| Shield | +2 | |
 
 Weapons (Simple, Martial)
 --------------
-| Weapon      | Atack | Damage | Type        | Properties |
-| :------     | :----: | :----: | :---:       | :---: |
-|Stone axe    | +2 |  1d6 +2  | slashing    | light, thrown (20/60) |
-|Light hammer | +2 |1d4 +2   | bludgeoning | light, thrown (20/60) |
-|Dagger       | +2 |1d4 +2    | piercing    | finesse, light, thrown (20/60) |
-|Crossbow     |  +2 | 1d6    | piercing    |  ammunition (25/100), loading |
+| Weapon      | Atack  | Damage  | Type        | Properties |
+| :------     | :----: | :----:  | :---:       | :---: |
+|Spear +1     | +3     | 1d6 +3  | piercing    | versitile (1d8), thrown (20/60) |
+|Light hammer | +2     | 1d4 +2  | bludgeoning | light, thrown (20/60) |
+|Dagger       | +2     | 1d4 +2  | piercing    | finesse, light, thrown (20/60) |
+|Crossbow     | +2     | 1d6     | piercing    |  ammunition (25/100), loading |
 
 
-Spells, DC 13
+Spells  
+__DC:__ 13
 --------
 | Spell Level | Uses per day |
 | :---:       | :---:        |
