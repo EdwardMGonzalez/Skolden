@@ -25,5 +25,5 @@ _Passive Perception: 12_
 | Survival (Wis)        | +4 |
 
 
-* Proficiency (add proficiency bonus)
+\* Proficiency (add proficiency bonus)  
 ** Bardic Expertise (add double prof. bonus)
