@@ -23,4 +23,7 @@ Wisdom
 
 Charisma 
 --------
-+5*
++6*
+
+
+__\*__ Denotes proficiency in that ability
