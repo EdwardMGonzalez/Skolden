@@ -3,6 +3,7 @@
 ## Cantrips
 [Vicious Mockery](./Spells/vicious_mockery.md)  
 [Prestidigitation](./Spells/prestidigitation.md)  
+[Mending](./Spells/mending.md)
 
 ## 1st Level
 [Heroism] (./Spells/heroism.md)  
