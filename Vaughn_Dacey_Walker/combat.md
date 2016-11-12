@@ -1,9 +1,9 @@
 Combat
 ======
 
-__Max Hit Points__ 15  
+__Max Hit Points__ 24  
 __Armor Class__ 13   
-__Hit Dice__ 3d8   
+__Hit Dice__ 4d8   
 __Initiative__ +2   
 __Speed__ 30   
 
@@ -29,10 +29,10 @@ Weapons (Simple, Martial)
 Spells, DC 13
 --------
 | Spell Level | Uses per day |
-| :---: | :---: |
-| 0 | infinite | 
-| 1 | 4 |
-| 2 | 2|
+| :---:       | :---:        |
+| 0           | infinite     | 
+| 1           | 4            |
+| 2           | 3            |
 
 
 |Name | Casting Time | Range | Components | Duration | Damage |  Notes |
@@ -40,12 +40,17 @@ Spells, DC 13
 | __Cantrips__ |
 |[Vicious Mockery](./Spells/vicious_mockery.md)| 1 action | 60ft | V | Instant | 1d4 psychic dmg | Wisdom Save |
 | __1st Level__ |
-|[Heroism] (./Spells/heroism.md)                 | 1 action | touch | VS | concentration, 1min | - | 1 creature immmunte to frighten, +3 hp per round |
+|[Cure Wounds] (./Spells/cure_wounds.md)                 | 1 action | touch | VS | Instant | - | 1d8 +4 hp |
+|[Healing Word] (./Spells/healing_word.md)               | 1 action | 60ft | V | Instant | - | 1d4 +4 hp |
 | __2nd Level__ |
+|[Cure Wounds] (./Spells/cure_wounds.md)                 | 1 action | touch | VS | Instant | - | 2d8 +4 hp |
+|[Healing Word] (./Spells/healing_word.md)               | 1 action | 60ft | V | Instant | - | 2d4 +4 hp |
+|[Lesser Restoration] (./Spells/lesser_restoration.md)   | 1 action | touch | VS | Instant | - | curse disease or blindness, deafness, paralysis, poisoned |
 |[Phantasmal Force](./Spells/phantasmal_force.md)| 1 action | 60ft| VSM | concentration, 1min| 1d6 | Must use action to investigate (Int save) |
+|[Suggestion] (./Spells/suggestion.md)                 | 1 action | 30ft | VM | up to 8hrs | - | Jedi Mind Trick |
 
 
-Bardic Inspiration (1d6, 3 uses)
+Bardic Inspiration (1d6, 4 uses)
 ------------------
 You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d6.
 
