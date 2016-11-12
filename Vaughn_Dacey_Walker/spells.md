@@ -11,6 +11,6 @@
 [Identify] (./Spells/identify.md)  
 
 ## 2nd Level
-[Lesser Restoration](./Spells/lesser_restoration.md)
+[Lesser Restoration](./Spells/lesser_restoration.md)  
 [Phantasmal Force](./Spells/phantasmal_force.md)  
 [Suggestion](./Spells/suggestion.md)
