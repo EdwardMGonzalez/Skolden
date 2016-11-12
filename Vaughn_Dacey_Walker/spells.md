@@ -6,10 +6,11 @@
 [Mending](./Spells/mending.md)
 
 ## 1st Level
-[Heroism] (./Spells/heroism.md)  
 [Cure Wounds](./Spells/cure_wounds.md)  
 [Healing Word](./Spells/healing_word.md)  
+[Identify] (./Spells/identify.md)  
 
 ## 2nd Level
-[Detect Thoughts](./Spells/detect_thoughts.md)  
+[Lesser Restoration](./Spells/lesser_restoration.md)
 [Phantasmal Force](./Spells/phantasmal_force.md)  
+[Suggestion](./Spells/suggestion.md)
