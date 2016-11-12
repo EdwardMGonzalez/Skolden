@@ -26,4 +26,6 @@ Charisma
 +6*
 
 
+--------
+--------
 __\*__ Denotes proficiency in that ability
