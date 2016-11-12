@@ -4,7 +4,11 @@
 Dagger  
 Crossbow  
 12 Bolts  
-Stone Axe  
+Spear +1 (acquire after fight with the dragon Ice Wing)
+
+## Armor
+Scale Mail
+Shield
 
 
 ## Gear
