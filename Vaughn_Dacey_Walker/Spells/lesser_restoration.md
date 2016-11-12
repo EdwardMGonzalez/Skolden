@@ -1,5 +1,5 @@
 #Lesser Restoration
-_2nd-level abjuration
+_2nd-level abjuration_
 
 __Casting Time:__ 1 action
 
