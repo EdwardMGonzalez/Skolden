@@ -6,7 +6,7 @@ Vaughn Abilities
 | :-----:      | :---: | :---: |
 | Strength     | 14    |  +2   |
 | Dexterity    | 15    | +2    |
-| Constitution | 9     | -1    |
+| Constitution | 10    |  0    |
 | Intelligence | 11    |  0    |
 | Wisdom       | 12    | +1    |
-| Charisma     | 17    | +3    |
+| Charisma     | 18    | +4    |
