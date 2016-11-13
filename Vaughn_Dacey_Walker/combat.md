@@ -15,7 +15,7 @@ __AC:__ 18
 
 | Armor   | AC | Notes |
 | :-----  | :---: | :---: |
-| Scale Mail | 14 + 2 | Disadvantage sneaking |
+| Leather | 12 + 2 | Disadvantage sneaking |
 | Shield | +2 | |
 
 Weapons (Simple, Martial)
