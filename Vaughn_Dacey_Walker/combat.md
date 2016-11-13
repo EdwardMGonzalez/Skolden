@@ -22,9 +22,9 @@ Weapons (Simple, Martial)
 --------------
 | Weapon      | Atack  | Damage  | Type        | Properties |
 | :------     | :----: | :----:  | :---:       | :---: |
-|Spear +1     | +5     | 1d6 +5  | piercing    | versitile (1d8), thrown (20/60) |
-|Light hammer | +4     | 1d4 +4  | bludgeoning | light, thrown (20/60) |
-|Dagger       | +4     | 1d4 +4  | piercing    | finesse, light, thrown (20/60) |
+|Spear +1     | +5     | 1d6 +3  | piercing    | versitile (1d8), thrown (20/60) |
+|Light hammer | +4     | 1d4 +2  | bludgeoning | light, thrown (20/60) |
+|Dagger       | +4     | 1d4 +2  | piercing    | finesse, light, thrown (20/60) |
 |Crossbow     | +4     | 1d6 +2  | piercing    |  ammunition (25/100), loading |
 
 
