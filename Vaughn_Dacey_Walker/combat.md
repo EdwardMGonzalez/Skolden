@@ -10,7 +10,7 @@ __Speed__ 30
 
 
 Armor (Light, Medium, Shields) 
-__AC:__ 18  
+__AC:__ 16  
 -----
 
 | Armor   | AC | Notes |
