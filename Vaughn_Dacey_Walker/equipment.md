@@ -21,6 +21,7 @@ waterskin
 disguise kit  
 bodhran Drum  
 heavy furs  
+Magical Waterskin (when full acts as a health potion)
 
 ## Adventures
 Leatherbound vulpine book (aka The Book of the Wolf)  
