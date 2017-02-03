@@ -16,5 +16,5 @@
 [Suggestion](./Spells/suggestion.md)
 
 ## 3rd Level
-[Leomund's Tiny Hut](./Spells/leomunds_tiny_hut.md)
+[Leomund's Tiny Hut](./Spells/leomunds_tiny_hut.md)  
 [Hypnotic Pattern](./Spells/hypnotic_pattern.md)
