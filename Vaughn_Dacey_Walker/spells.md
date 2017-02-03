@@ -14,3 +14,7 @@
 [Lesser Restoration](./Spells/lesser_restoration.md)  
 [Phantasmal Force](./Spells/phantasmal_force.md)  
 [Suggestion](./Spells/suggestion.md)
+
+## 3rd Level
+[Leomund's Tiny Hut](./Spells/leomunds_tiny_hut.md)
+[Hypnotic Pattern](./Spells/hypnotic_pattern.md)
