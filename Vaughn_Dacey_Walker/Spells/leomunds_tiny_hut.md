@@ -1,4 +1,4 @@
-# Leomund’s Tiny Hut Edit
+# Leomund’s Tiny Hut 
 _3rd-level evocation (ritual)_
 
 __Casting Time:__ 1 minute
