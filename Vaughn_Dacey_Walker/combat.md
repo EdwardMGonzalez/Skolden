@@ -21,20 +21,21 @@ Weapons (Simple, Martial)
 --------------
 | Weapon      | Atack  | Damage  | Type        | Properties |
 | :------     | :----: | :----:  | :---:       | :---: |
-|Spear +1     | +5     | 1d6 +3  | piercing    | versitile (1d8), thrown (20/60) |
-|Light hammer | +4     | 1d4 +2  | bludgeoning | light, thrown (20/60) |
-|Dagger       | +4     | 1d4 +2  | piercing    | finesse, light, thrown (20/60) |
-|Crossbow     | +4     | 1d6 +2  | piercing    |  ammunition (25/100), loading |
+|Spear +1     | +6     | 1d6 +3  | piercing    | versitile (1d8), thrown (20/60) |
+|Light hammer | +5     | 1d4 +2  | bludgeoning | light, thrown (20/60) |
+|Dagger       | +5     | 1d4 +2  | piercing    | finesse, light, thrown (20/60) |
+|Crossbow     | +5     | 1d6 +2  | piercing    |  ammunition (25/100), loading |
 
 
 Spells  
-__DC:__ 13
+__DC:__ 15
 --------
 | Spell Level | Uses per day |
 | :---:       | :---:        |
 | 0           | infinite     | 
 | 1           | 4            |
 | 2           | 3            |
+| 3           | 2            | 
 
 
 |Name | Casting Time | Range | Components | Duration | Damage |  Notes |
@@ -52,9 +53,9 @@ __DC:__ 13
 |[Suggestion] (./Spells/suggestion.md)                 | 1 action | 30ft | VM | up to 8hrs | - | Jedi Mind Trick |
 
 
-Bardic Inspiration (1d6, 4 uses)
+Bardic Inspiration (1d8, 4 uses)
 ------------------
-You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die, a d6.
+You can inspire others through stirring words or music. To do so, you use a bonus action on your turn to choose one creature other than yourself within 60 feet of you who can hear you. That creature gains one Bardic Inspiration die.
 
 Once within the next 10 minutes, the creature can roll the die and add the number rolled to one ability check, attack roll, or saving throw it makes. The creature can wait until after it rolls the d20 before deciding to use the Bardic Inspiration die, but must decide before the GM says whether the roll succeeds or fails. Once the Bardic Inspiration die is rolled, it is lost. A creature can have only one Bardic Inspiration die at a time.
 
