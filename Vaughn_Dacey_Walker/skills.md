@@ -9,7 +9,7 @@ _Passive Perception: 12_
 | Animal Handling (Wis) | +2 |
 | Arcana (Int)          | +1 |
 | Athletics (Str)       | +3 |
-| Deception (Cha)       | +6* |
+| Deception (Cha)       | +7* |
 | History (Int)         | +1 |
 | Insight (Wis)         | +2 |
 | Intimidation (Cha)    | +5 |
@@ -17,12 +17,12 @@ _Passive Perception: 12_
 | Medicine (Wis)        | +2 |
 | Nature (Int)          | +1 |
 | Perception (Wis)      | +2 |
-| Performance (Cha)     | +8** |
-| Persuasion (Cha)      | +8** |
+| Performance (Cha)     | +10** |
+| Persuasion (Cha)      | +10** |
 | Religion (Int)        | +1 |
 | Sleight of Hand (Dex) | +3 | 
 | Stealth (Dex)         | +3 |
-| Survival (Wis)        | +4 |
+| Survival (Wis)        | +5* |
 
 
 \* Proficiency (add proficiency bonus)  
