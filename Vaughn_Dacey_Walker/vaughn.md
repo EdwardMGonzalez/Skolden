@@ -1,5 +1,7 @@
 # Vaugh Dacey Walker
 
+Level 6
+
 [Abilities](./abilities.md)  
 [Spells](./spells.md)  
 [Combat](./combat.md)  
