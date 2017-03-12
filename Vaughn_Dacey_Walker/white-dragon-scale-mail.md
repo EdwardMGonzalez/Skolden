@@ -1,9 +1,9 @@
 # White Dragon Scale Mail
 __Cold Resistance__
 
-__AC:__ 14 + Dex modifier (max 2) + 1 bonus
-__Weight:__ 45lb
-__Stealth:__ Disadvantage
+__AC:__ 14 + Dex modifier (max 2) + 1 bonus  
+__Weight:__ 45lb  
+__Stealth:__ Disadvantage  
 
 While wearing this armor, you gain a +1 bonus to AC, you have advantage on saving throws against 
 the Frightful Presence and breath weapons of dragons, and you have resistance to one damage type 
