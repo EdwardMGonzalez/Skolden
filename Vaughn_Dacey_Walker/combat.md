@@ -1,21 +1,24 @@
-Combat
-======
+# Combat
 
-__Max Hit Points__ 29  
-__Hit Dice__ 5d8   
+
+__Max Hit Points__ 34  
+__Hit Dice__ 6d8   
 __Initiative__ +2   
 __Speed__ 30   
 
-
+## Defence
 
 Armor (Light, Medium, Shields) 
-__AC:__ 16  
+__AC:__ 19  
 -----
 
 | Armor   | AC | Notes |
 | :-----  | :---: | :---: |
-| Leather | 12 + 2 | Disadvantage sneaking |
+| White Dragon Scale Mail | 15 | Disadvantage sneaking, Cold resistance  |
+| Dexterity Bonus | 2 | |
 | Shield | +2 | |
+
+## Melee
 
 Weapons (Simple, Martial)
 --------------
@@ -27,7 +30,12 @@ Weapons (Simple, Martial)
 |Crossbow     | +5     | 1d6 +2  | piercing    |  ammunition (25/100), loading |
 
 
-Spells  
+### Extra Attack
+_College of Valor_  
+Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack ation on your turn.
+
+
+## Spells  
 __DC:__ 15
 --------
 | Spell Level | Uses per day |
