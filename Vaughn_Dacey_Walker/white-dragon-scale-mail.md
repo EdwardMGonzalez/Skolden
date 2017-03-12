@@ -1,4 +1,4 @@
-# White Dragon Scale Mail
+# Ice Wing (White Dragon) Scale Mail
 __Cold Resistance__
 
 __AC:__ 14 + Dex modifier (max 2) + 1 bonus  
