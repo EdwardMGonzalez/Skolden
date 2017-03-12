@@ -5,7 +5,7 @@ Level 6
 [Abilities](./abilities.md)  
 [Spells](./spells.md)  
 [Combat](./combat.md)  
-[Feats](./feats.md)  
+[Feats](./feats/feat-list.md)  
 
 __Languages__ Common Elvish   
 __Weapons__  Simple, Martial, Crossbow (hand, light), Longsword, Rapier, Shortsword, Dagger   
