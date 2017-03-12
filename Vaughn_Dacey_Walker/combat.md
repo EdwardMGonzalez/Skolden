@@ -63,7 +63,7 @@ Once within the next 10 minutes, the creature can roll the die and add the numbe
 
 You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a long rest.
 
-Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.
+Your Bardic Inspiration die changes when you reach certain levels in this class. The die becomes a *d8* at 5th level, a d10 at 10th level, and a d12 at 15th level.
 
 ### Combat Inspiration
 Bardic Inspiration dice can be used to add to weapon damage or armor class as well as the stuff above. 
@@ -71,7 +71,7 @@ Bardic Inspiration dice can be used to add to weapon damage or armor class as we
 
 Song of Rest (1d6 hp)
 -------------
-Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points at the end of the short rest by spending one or more Hit Dice, each of those creatures regains an extra 1d6 hit points.
+Beginning at 2nd level, you can use soothing music or oration to help revitalize your wounded allies during a short rest. If you or any friendly creatures who can hear your performance regain hit points at the end of the short rest by spending one or more Hit Dice, each of those creatures regains an extra *1d6 hit points*.
 
 The extra hit points increase when you reach certain levels in this class: to 1d8 at 9th level, to 1d10 at 13th level, and to 1d12 at 17th level.
 
