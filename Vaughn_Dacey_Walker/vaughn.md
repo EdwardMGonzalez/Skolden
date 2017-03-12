@@ -3,7 +3,7 @@
 Level 6
 
 [Abilities](./abilities.md)  
-[Spells](./spells.md)  
+[Spells](./Spells/spell-list.md)  
 [Combat](./combat.md)  
 [Feats](./Feats/feat-list.md)  
 
