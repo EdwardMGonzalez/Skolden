@@ -35,7 +35,7 @@ __DC:__ 15
 | 0           | infinite     | 
 | 1           | 4            |
 | 2           | 3            |
-| 3           | 2            | 
+| 3           | 3            | 
 
 
 |Name | Casting Time | Range | Components | Duration | Damage |  Notes |
@@ -51,6 +51,8 @@ __DC:__ 15
 |[Lesser Restoration] (./Spells/lesser_restoration.md)   | 1 action  | touch | VS | Instant | - | curse disease or blindness, deafness, paralysis, poisoned |
 |[Phantasmal Force](./Spells/phantasmal_force.md)| 1 action | 60ft| VSM | concentration, 1min| 1d6 | Must use action to investigate (Int save) |
 |[Suggestion] (./Spells/suggestion.md)                 | 1 action | 30ft | VM | up to 8hrs | - | Jedi Mind Trick |
+| __3nd Level__ |
+|[Hypnotic Pattern](./Spells/hypnotic_pattern.md)        | 1 action | 120ft | SM | concentration, 1min | - | Wisdom Save, incapacitated |
 
 
 Bardic Inspiration (1d8, 4 uses)
@@ -77,3 +79,8 @@ The extra hit points increase when you reach certain levels in this class: to 1d
 Font of Inspiration
 --------------------
 Beginning when you reach 5th level, you regain all of your expended uses of Bardic Inspiration when you finish a short or long rest.
+
+
+Counter Charm
+---------------
+At 6th level , you gain the ability to use musical notes or words of power to disrupt mind-influencing effects. As an action, you can start a performance that lasts until the end of your next turn. During that time, you and any friendly creatures within 30 feet of you have advantage on saving throws against being frighted or charmed. A creature must be able to hear you to gain this benefit. The performance ends early if you are incapacitated or silence or if you voluntarily end it (no action required).
