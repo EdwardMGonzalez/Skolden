@@ -1,3 +1,3 @@
 # Feats
 
-[Actor](./Feats/actor.md)
+[Actor](./feats/actor.md)
