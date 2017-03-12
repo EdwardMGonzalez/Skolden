@@ -7,10 +7,11 @@ Level 6
 [Feats](./feats/feat-list.md)  
 [Equipment](./equipment/equipment.md)
 
-__Languages__ Common, Elvish   
-__Weapons__  Simple, Martial, Crossbow (hand, light), Longsword, Rapier, Shortsword, Dagger   
-__Armor__ Light, Medium   
-__Tools__ Dice set, Leatherworker's tools, Drum   
+__Proficiency Bonus:__ +3  
+__Languages:__ Common, Elvish   
+__Weapons:__  Simple, Martial, Crossbow (hand, light), Longsword, Rapier, Shortsword, Dagger   
+__Armor:__ Light, Medium   
+__Tools:__ Dice set, Leatherworker's tools, Drum   
 
 ## Abilities
 
@@ -25,33 +26,33 @@ __Tools__ Dice set, Leatherworker's tools, Drum
 
 ## Skills
 
-_Jack of all Trades: +1 all non-proficient checks_
-_Passive Perception: 12_
-
-| Skill                 | bonus |
-| ---                   | --- |
-| Acrobatics (Dex)      | +3 |
-| Animal Handling (Wis) | +2 |
-| Arcana (Int)          | +1 |
-| Athletics (Str)       | +3 |
-| Deception (Cha)       | +7* |
-| History (Int)         | +1 |
-| Insight (Wis)         | +2 |
-| Intimidation (Cha)    | +5 |
-| Investigation (Int)   | + 1 |
-| Medicine (Wis)        | +2 |
-| Nature (Int)          | +1 |
-| Perception (Wis)      | +2 |
-| Performance (Cha)     | +10** |
-| Persuasion (Cha)      | +10** |
-| Religion (Int)        | +1 |
-| Sleight of Hand (Dex) | +3 |
-| Stealth (Dex)         | +3 |
-| Survival (Wis)        | +5* |
+*  Jack of all Trades: +1 all non-proficient checks
+*  Bardic Expertise give double proficiency bonus in Performance & Persuasion
+*  Actor gives advantage on Persuasion and Performance checks while impersonating smoeone else
+* Human, add one additional skill
 
 
-\* Proficiency (add proficiency bonus)  
-** Bardic Expertise (add double prof. bonus)
+| Skill                 | base | prof bonus | jack-of-all | total |
+| ---                   | --- | --- | --- | --- |
+| Acrobatics (Dex)      | +2 | - | +1 | +3 |
+| Animal Handling (Wis) | +1 | - | +1 | +2 |
+| Arcana (Int)          | +0 | - | +1 | +1 |
+| Athletics (Str)       | +2 | - | +1 | +3 |
+| Deception (Cha)       | +4 | +3 | - | +7 (+10 actor) |
+| History (Int)         | +0 | - | +1 | +1 |
+| Insight (Wis)         | +1 | - | +1 | +2 |
+| Intimidation (Cha)    | +4 | - | +1 | +5 |
+| Investigation (Int)   | +0 | - | +1 | +1 |
+| Medicine (Wis)        | +1 | - | +1 | +1 |
+| Nature (Int)          | +0 | - | +1 | +1 |
+| Perception (Wis)      | +1 | - | +1 | +2 |
+| Performance (Cha)     | +4 | +3 | - | +7 (10 actor) |
+| Persuasion (Cha)      | +4 | +3 | - | +7 |
+| Religion (Int)        | +0 | - | +1 | +1 |
+| Sleight of Hand (Dex) | +2 | - | +1 | +3 |
+| Stealth (Dex)         | +2 | - | +1 | +3 |
+| Survival (Wis)        | +1 | +3 | - | +4 |
+
 
 
 Personality
