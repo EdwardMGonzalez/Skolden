@@ -51,14 +51,14 @@ __DC:__ 15
 | __Cantrips__ |
 |[Vicious Mockery](./Spells/vicious_mockery.md)| 1 action | 60ft | V | Instant | 2d4 psychic dmg | Wisdom Save |
 | __1st Level__ |
-|[Cure Wounds] (./Spells/cure_wounds.md)                 | 1 action  | touch | VS | Instant | - | 1d8 +4 hp |
+|[Cure Wounds](./Spells/cure_wounds.md)                 | 1 action  | touch | VS | Instant | - | 1d8 +4 hp |
 |[Healing Word] (./Spells/healing_word.md)               | 1 bns act | 60ft | V | Instant | - | 1d4 +4 hp |
 | __2nd Level__ |
-|[Cure Wounds] (./Spells/cure_wounds.md)                 | 1 action  | touch | VS | Instant | - | 2d8 +4 hp |
-|[Healing Word] (./Spells/healing_word.md)               | 1 action  | 60ft | V | Instant | - | 2d4 +4 hp |
-|[Lesser Restoration] (./Spells/lesser_restoration.md)   | 1 action  | touch | VS | Instant | - | curse disease or blindness, deafness, paralysis, poisoned |
+|[Cure Wounds](./Spells/cure_wounds.md)                 | 1 action  | touch | VS | Instant | - | 2d8 +4 hp |
+|[Healing Word](./Spells/healing_word.md)               | 1 action  | 60ft | V | Instant | - | 2d4 +4 hp |
+|[Lesser Restoration](./Spells/lesser_restoration.md)   | 1 action  | touch | VS | Instant | - | curse disease or blindness, deafness, paralysis, poisoned |
 |[Phantasmal Force](./Spells/phantasmal_force.md)| 1 action | 60ft| VSM | concentration, 1min| 1d6 | Must use action to investigate (Int save) |
-|[Suggestion] (./Spells/suggestion.md)                 | 1 action | 30ft | VM | up to 8hrs | - | Jedi Mind Trick |
+|[Suggestion](./Spells/suggestion.md)                 | 1 action | 30ft | VM | up to 8hrs | - | Jedi Mind Trick |
 | __3nd Level__ |
 |[Hypnotic Pattern](./Spells/hypnotic_pattern.md)        | 1 action | 120ft | SM | concentration, 1min | - | Wisdom Save, incapacitated |
 
