@@ -52,7 +52,7 @@ __DC:__ 15
 |[Vicious Mockery](./Spells/vicious_mockery.md)| 1 action | 60ft | V | Instant | 2d4 psychic dmg | Wisdom Save |
 | __1st Level__ |
 |[Cure Wounds](./Spells/cure_wounds.md)                 | 1 action  | touch | VS | Instant | - | 1d8 +4 hp |
-|[Healing Word] (./Spells/healing_word.md)               | 1 bns act | 60ft | V | Instant | - | 1d4 +4 hp |
+|[Healing Word](./Spells/healing_word.md)               | 1 bns act | 60ft | V | Instant | - | 1d4 +4 hp |
 | __2nd Level__ |
 |[Cure Wounds](./Spells/cure_wounds.md)                 | 1 action  | touch | VS | Instant | - | 2d8 +4 hp |
 |[Healing Word](./Spells/healing_word.md)               | 1 action  | 60ft | V | Instant | - | 2d4 +4 hp |
