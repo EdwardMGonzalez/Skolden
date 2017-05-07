@@ -40,7 +40,7 @@ __Tools:__ Dice set, Leatherworker's tools, Drum
 | Animal Handling (Wis) | +1 | - | +1 | +2 |
 | Arcana (Int)          | +0 | - | +1 | +1 |
 | Athletics (Str)       | +2 | - | +1 | +3 |
-| Deception (Cha)       | +4 | +3 | - | +7 (+10 actor) |
+| Deception (Cha)       | +4 | +3 | - | +7 |
 | History (Int)         | +0 | - | +1 | +1 |
 | Insight (Wis)         | +1 | - | +1 | +2 |
 | Intimidation (Cha)    | +4 | - | +1 | +5 |
