@@ -30,7 +30,7 @@ __Tools:__ Dice set, Leatherworker's tools, Drum
 *  Bardic Expertise give double proficiency bonus in Performance & Persuasion
 *  Actor Feat gives advantage on Deception and Performance checks trying to impersonate
 *  Actor Feat mimic the speech of another person / creature. 
-** Save Wisdom (Insight) v/s Chraisma (Deception) 
+    * Save Wisdom (Insight) v/s Chraisma (Deception) 
 * Human, add one additional skill
 
 
