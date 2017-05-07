@@ -46,8 +46,8 @@ __Tools:__ Dice set, Leatherworker's tools, Drum
 | Medicine (Wis)        | +1 | - | +1 | +1 |
 | Nature (Int)          | +0 | - | +1 | +1 |
 | Perception (Wis)      | +1 | - | +1 | +2 |
-| Performance (Cha)     | +4 | +3 | - | +7 (10 actor) |
-| Persuasion (Cha)      | +4 | +3 | - | +7 |
+| Performance (Cha)     | +4 | +3 | - | +7 (10 expertise) |
+| Persuasion (Cha)      | +4 | +3 | - | +7 (10 expertise) |
 | Religion (Int)        | +0 | - | +1 | +1 |
 | Sleight of Hand (Dex) | +2 | - | +1 | +3 |
 | Stealth (Dex)         | +2 | - | +1 | +3 |
