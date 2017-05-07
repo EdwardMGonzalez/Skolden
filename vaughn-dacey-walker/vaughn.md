@@ -28,7 +28,9 @@ __Tools:__ Dice set, Leatherworker's tools, Drum
 
 *  Jack of all Trades: +1 all non-proficient checks
 *  Bardic Expertise give double proficiency bonus in Performance & Persuasion
-*  Actor gives advantage on Persuasion and Performance checks while impersonating smoeone else
+*  Actor Feat gives advantage on Deception and Performance checks trying to impersonate
+*  Actor Feat mimic the speech of another person / creature. 
+** Save Wisdom (Insight) v/s Chraisma (Deception) 
 * Human, add one additional skill
 
 
