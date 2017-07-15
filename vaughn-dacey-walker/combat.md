@@ -38,29 +38,36 @@ Starting at 6th level, you can attack twice, instead of once, whenever you take 
 ## Spells  
 __DC:__ 15
 --------
-| Spell Level | Uses per day |
+| Spell Level | Spell Slots |
 | :---:       | :---:        |
 | 0           | infinite     | 
 | 1           | 4            |
 | 2           | 3            |
 | 3           | 3            | 
+| 4           | 1            |
 
 
 |Name | Casting Time | Range | Components | Duration | Damage |  Notes |
 |:--- | :----------: | :---: | :--------: | :------: | :----: | ---- |
 | __Cantrips__ |
+|[Mending](./spells/mending.md)| 1 minute | touch | V,S,M | Instant | - | repairs things |
+|[Prestidigitation](./spells/prestidigitation.md)| 1 action | 10ft | V<S | 1hr | - | create minor effect/object |
 |[Vicious Mockery](./spells/vicious_mockery.md)| 1 action | 60ft | V | Instant | 2d4 psychic dmg | Wisdom Save |
 | __1st Level__ |
 |[Cure Wounds](./spells/cure_wounds.md)                 | 1 action  | touch | VS | Instant | - | 1d8 +4 hp |
 |[Healing Word](./spells/healing_word.md)               | 1 bns act | 60ft | V | Instant | - | 1d4 +4 hp |
+|[Identify](./spells/identify.md)| 1 minute | touch | V,S,M | Instant | - | learn properties of magic item |
 | __2nd Level__ |
 |[Cure Wounds](./spells/cure_wounds.md)                 | 1 action  | touch | VS | Instant | - | 2d8 +4 hp |
 |[Healing Word](./spells/healing_word.md)               | 1 action  | 60ft | V | Instant | - | 2d4 +4 hp |
 |[Lesser Restoration](./spells/lesser_restoration.md)   | 1 action  | touch | VS | Instant | - | curse disease or blindness, deafness, paralysis, poisoned |
-|[Phantasmal Force](./spells/phantasmal_force.md)| 1 action | 60ft| VSM | concentration, 1min| 1d6 | Must use action to investigate (Int save) |
+|[See Invisibility](./spells/see_invisibility.md)| 1 action | self | V,S,M | 1hr | - | see invisible, ethereal |
 |[Suggestion](./spells/suggestion.md)                 | 1 action | 30ft | VM | up to 8hrs | - | Jedi Mind Trick |
 | __3nd Level__ |
 |[Hypnotic Pattern](./spells/hypnotic_pattern.md)        | 1 action | 120ft | SM | concentration, 1min | - | Wisdom Save, incapacitated |
+|[Leomund's Tiny Hut](./spells/leomunds_tiny_hut.md)| 1 minute | 10ft | V,S,M | 8hrs | - | create safe shelter |
+|[Tongues](./spells/tongues.md)| 1 action | touch | V,S,M | 1hr | - | understand & speak any language |
+|[Speak with Dead](./spells/speak_with_dead.md)| 1 action | 10ft | V,S,M | 10mins | - | converse with corpse |
 
 
 Bardic Inspiration (1d8, 4 uses)
