@@ -17,5 +17,5 @@
 
 ## 3rd Level
 [Leomund's Tiny Hut](./leomunds_tiny_hut.md)  
-[Hypnotic Pattern](./hypnotic_pattern.md)  
+[Tongues](./tongues.md)  
 [Speak with Dead](./speak_with_the_dead.md)
