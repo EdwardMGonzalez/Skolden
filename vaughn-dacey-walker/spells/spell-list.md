@@ -19,3 +19,6 @@
 [Leomund's Tiny Hut](./leomunds_tiny_hut.md)  
 [Tongues](./tongues.md)  
 [Speak with Dead](./speak_with_the_dead.md)
+
+## 4th Level
+[Dimension Door](./dimension_door.md)
