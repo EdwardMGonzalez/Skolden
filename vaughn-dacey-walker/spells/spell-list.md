@@ -12,7 +12,7 @@
 
 ## 2nd Level
 [Lesser Restoration](./lesser_restoration.md)  
-[Phantasmal Force](./phantasmal_force.md)  
+[See Invisibility](./see_invisibility.md)  
 [Suggestion](./suggestion.md)
 
 ## 3rd Level
