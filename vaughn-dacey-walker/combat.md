@@ -1,8 +1,8 @@
 # Combat
 
 
-__Max Hit Points__ 34  
-__Hit Dice__ 6d8   
+__Max Hit Points__ 38  
+__Hit Dice__ 7d8   
 __Initiative__ +2   
 __Speed__ 30   
 
@@ -49,18 +49,18 @@ __DC:__ 15
 |Name | Casting Time | Range | Components | Duration | Damage |  Notes |
 |:--- | :----------: | :---: | :--------: | :------: | :----: | ---- |
 | __Cantrips__ |
-|[Vicious Mockery](./Spells/vicious_mockery.md)| 1 action | 60ft | V | Instant | 2d4 psychic dmg | Wisdom Save |
+|[Vicious Mockery](./spells/vicious_mockery.md)| 1 action | 60ft | V | Instant | 2d4 psychic dmg | Wisdom Save |
 | __1st Level__ |
-|[Cure Wounds](./Spells/cure_wounds.md)                 | 1 action  | touch | VS | Instant | - | 1d8 +4 hp |
-|[Healing Word](./Spells/healing_word.md)               | 1 bns act | 60ft | V | Instant | - | 1d4 +4 hp |
+|[Cure Wounds](./spells/cure_wounds.md)                 | 1 action  | touch | VS | Instant | - | 1d8 +4 hp |
+|[Healing Word](./spells/healing_word.md)               | 1 bns act | 60ft | V | Instant | - | 1d4 +4 hp |
 | __2nd Level__ |
-|[Cure Wounds](./Spells/cure_wounds.md)                 | 1 action  | touch | VS | Instant | - | 2d8 +4 hp |
-|[Healing Word](./Spells/healing_word.md)               | 1 action  | 60ft | V | Instant | - | 2d4 +4 hp |
-|[Lesser Restoration](./Spells/lesser_restoration.md)   | 1 action  | touch | VS | Instant | - | curse disease or blindness, deafness, paralysis, poisoned |
-|[Phantasmal Force](./Spells/phantasmal_force.md)| 1 action | 60ft| VSM | concentration, 1min| 1d6 | Must use action to investigate (Int save) |
-|[Suggestion](./Spells/suggestion.md)                 | 1 action | 30ft | VM | up to 8hrs | - | Jedi Mind Trick |
+|[Cure Wounds](./spells/cure_wounds.md)                 | 1 action  | touch | VS | Instant | - | 2d8 +4 hp |
+|[Healing Word](./spells/healing_word.md)               | 1 action  | 60ft | V | Instant | - | 2d4 +4 hp |
+|[Lesser Restoration](./spells/lesser_restoration.md)   | 1 action  | touch | VS | Instant | - | curse disease or blindness, deafness, paralysis, poisoned |
+|[Phantasmal Force](./spells/phantasmal_force.md)| 1 action | 60ft| VSM | concentration, 1min| 1d6 | Must use action to investigate (Int save) |
+|[Suggestion](./spells/suggestion.md)                 | 1 action | 30ft | VM | up to 8hrs | - | Jedi Mind Trick |
 | __3nd Level__ |
-|[Hypnotic Pattern](./Spells/hypnotic_pattern.md)        | 1 action | 120ft | SM | concentration, 1min | - | Wisdom Save, incapacitated |
+|[Hypnotic Pattern](./spells/hypnotic_pattern.md)        | 1 action | 120ft | SM | concentration, 1min | - | Wisdom Save, incapacitated |
 
 
 Bardic Inspiration (1d8, 4 uses)
