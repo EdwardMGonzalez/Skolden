@@ -1,4 +1,4 @@
-#Spells known by Vaugh
+# Spells
 
 ## Cantrips
 [Vicious Mockery](./vicious_mockery.md)  
