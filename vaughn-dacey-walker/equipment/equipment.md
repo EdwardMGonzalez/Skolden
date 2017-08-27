@@ -7,7 +7,7 @@ Crossbow
 Spear +1 (acquire after fight with the dragon Ice Wing)
 
 ## Armor
-Scale Mail
+Scale Mail  (armor from a white dragon, resistance to cold)  
 Shield
 
 
