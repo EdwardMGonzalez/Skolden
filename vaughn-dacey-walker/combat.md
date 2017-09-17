@@ -41,7 +41,7 @@ __DC:__ 15
 | Spell Level | Spell Slots |  Expended |  
 | :---:       | :---:        | :---: |  
 | 0           | infinite     | |  
-| 1           | 4            | |  
+| 1           | 4            | 1 |  
 | 2           | 3            | 2 |  
 | 3           | 3            | 3 |  
 | 4           | 1            | |  
