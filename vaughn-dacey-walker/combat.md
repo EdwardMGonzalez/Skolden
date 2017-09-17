@@ -38,13 +38,13 @@ Starting at 6th level, you can attack twice, instead of once, whenever you take 
 ## Spells  
 __DC:__ 15
 --------
-| Spell Level | Spell Slots |
-| :---:       | :---:        |
-| 0           | infinite     | 
-| 1           | 4            |
-| 2           | 3            |
-| 3           | 3            | 
-| 4           | 1            |
+| Spell Level | Spell Slots |  Expended |
+| :---:       | :---:        | |
+| 0           | infinite     | |
+| 1           | 4            | |
+| 2           | 3            | |
+| 3           | 3            | 1 |
+| 4           | 1            | |
 
 
 |Name | Casting Time | Range | Components | Duration | Damage |  Notes |
