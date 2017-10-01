@@ -1,7 +1,7 @@
 # Combat
 
 
-__Max Hit Points__ 38  
+__Max Hit Points__ 46  
 __Hit Dice__ 7d8   
 __Initiative__ +2   
 __Speed__ 30   
